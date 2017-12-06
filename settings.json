@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 1,
+    "editor.wrappingIndent": "none",
+    "emmet.triggerExpansionOnTab": true,
+    "php.validate.executablePath": "D:/phpStudy/php/php-7.0.12-nts",
+    "php.executablePath": "D:/phpStudy/php/php-7.0.12-nts",
+    "workbench.iconTheme": "simple-icons",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.json": "json"
+    },
+}
